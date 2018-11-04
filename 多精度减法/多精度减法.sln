@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "多精度减法", "多精度减法\多精度减法.vcxproj", "{F6A56F20-23A1-413F-AD4F-5ED5E03F9112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6A56F20-23A1-413F-AD4F-5ED5E03F9112}.Debug|x64.ActiveCfg = Debug|x64
+		{F6A56F20-23A1-413F-AD4F-5ED5E03F9112}.Debug|x64.Build.0 = Debug|x64
+		{F6A56F20-23A1-413F-AD4F-5ED5E03F9112}.Debug|x86.ActiveCfg = Debug|Win32
+		{F6A56F20-23A1-413F-AD4F-5ED5E03F9112}.Debug|x86.Build.0 = Debug|Win32
+		{F6A56F20-23A1-413F-AD4F-5ED5E03F9112}.Release|x64.ActiveCfg = Release|x64
+		{F6A56F20-23A1-413F-AD4F-5ED5E03F9112}.Release|x64.Build.0 = Release|x64
+		{F6A56F20-23A1-413F-AD4F-5ED5E03F9112}.Release|x86.ActiveCfg = Release|Win32
+		{F6A56F20-23A1-413F-AD4F-5ED5E03F9112}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9CA2C99-91D0-49F1-8FBB-ABC01B6E11E2}
+	EndGlobalSection
+EndGlobal
