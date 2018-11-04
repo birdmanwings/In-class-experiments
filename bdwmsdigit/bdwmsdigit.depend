@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1541251725 source:d:\c语言\c语言程序设计\课内例题\bdwmsdigit\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"bdwmsdigithead.h"
+
+1541251769 d:\c语言\c语言程序设计\课内例题\bdwmsdigit\include\bdwmsdigithead.h
+	<stdio.h>
+
