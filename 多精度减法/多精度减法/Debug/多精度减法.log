@@ -1,0 +1,4 @@
+﻿  多精度减法.cpp
+c:\users\74745\source\repos\多精度减法\多精度减法\多精度减法.cpp(12): warning C4101: “len”: 未引用的局部变量
+c:\users\74745\source\repos\多精度减法\多精度减法\多精度减法.cpp(56): warning C4018: “<=”: 有符号/无符号不匹配
+  多精度减法.vcxproj -> C:\Users\74745\source\repos\多精度减法\Debug\多精度减法.exe
