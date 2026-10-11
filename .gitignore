@@ -1,0 +1,34 @@
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+ipch/
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+
+# Compiled artifacts
+*.exe
+*.dll
+*.lib
+*.ilk
+*.pdb
+*.pch
+*.obj
+*.o
+*.idb
+*.tlog
+*.lastbuildstate
+*.log
+
+# Code::Blocks generated files
+*.depend
+*.layout
