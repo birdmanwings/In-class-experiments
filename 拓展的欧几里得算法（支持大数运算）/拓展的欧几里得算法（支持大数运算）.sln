@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "拓展的欧几里得算法（支持大数运算）", "拓展的欧几里得算法（支持大数运算）\拓展的欧几里得算法（支持大数运算）.vcxproj", "{99989CD6-15A5-4177-A6B3-E2D203734C00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99989CD6-15A5-4177-A6B3-E2D203734C00}.Debug|x64.ActiveCfg = Debug|x64
+		{99989CD6-15A5-4177-A6B3-E2D203734C00}.Debug|x64.Build.0 = Debug|x64
+		{99989CD6-15A5-4177-A6B3-E2D203734C00}.Debug|x86.ActiveCfg = Debug|Win32
+		{99989CD6-15A5-4177-A6B3-E2D203734C00}.Debug|x86.Build.0 = Debug|Win32
+		{99989CD6-15A5-4177-A6B3-E2D203734C00}.Release|x64.ActiveCfg = Release|x64
+		{99989CD6-15A5-4177-A6B3-E2D203734C00}.Release|x64.Build.0 = Release|x64
+		{99989CD6-15A5-4177-A6B3-E2D203734C00}.Release|x86.ActiveCfg = Release|Win32
+		{99989CD6-15A5-4177-A6B3-E2D203734C00}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2075CFC2-46CE-480C-881C-013FCA0DFB1E}
+	EndGlobalSection
+EndGlobal
